@@ -1,0 +1,17 @@
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/UnityEngine.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/UnityEditor.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/obj/Debug/Assembly-CSharp.dll
+/Users/Dan/Documents/KW Indie Game Dev/Dan-der Dome/obj/Debug/Assembly-CSharp.dll.mdb
